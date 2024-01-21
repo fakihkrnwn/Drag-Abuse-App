@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798829712241",
+    "project_id": "drugapp-aeb45",
+    "storage_bucket": "drugapp-aeb45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798829712241:android:69011998379a75cb621cd0",
+        "android_client_info": {
+          "package_name": "com.example.drugabuseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798829712241-c52ovb775p190nggjgct96s25gcrk21e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwIPrHTSnYU4XMZSYw7bxPWsvDt7TBBZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798829712241-c52ovb775p190nggjgct96s25gcrk21e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
